@@ -2,7 +2,7 @@
 //  Question.swift
 //  Quizzler-iOS13
 //
-//  Created by Vishal Jain on 5/7/20.
+//  Created by Sarthak Jain on 5/7/20.
 //  Copyright © 2020 The App Brewery. All rights reserved.
 //
 
